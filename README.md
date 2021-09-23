@@ -12,7 +12,7 @@ If you'd like to support me financially you can buy me a coffee :). most funds w
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T22YXTW)
 ---
-### If you'd like to commission/hire me part-time/full-time. Please contact me through my email or on [my website](https://illusionman1212.me/contact).
+### If you'd like to commission/hire me part-time/full-time. Please contact me through my email or on [my website](https://illusionman1212.tech/contact).
 ---
 ### I’m currently maintaining these personal projects:
 - [Say-cheese](https://github.com/illusionman1212/say-cheese): A REST API written in NodeJS that provides information and trivia about different types of cheese.
