@@ -11,9 +11,6 @@ If you'd like to donate you can do so here :).
 ---
 ### If you'd like to discuss an opportunity or want to inquire about something, please contact me through my email or on [my website](https://illusionman1212.tech/contact).
 ---
-### Projects I work(ed) on:
+### Active-ish projects:
 - [gorc](https://github.com/illusionman1212/gorc): A terminal IRC client made in golang.
 - [Twatter](https://github.com/illusionman1212/twatter-react): A micro-blogging, twitter-like platform.
-- [Vita3k](https://vita3k.org): The world's first functional PlayStation Vita emulator. (I'm an occasional contributor/developer of this project)
-- [say-cheese](https://github.com/illusionman1212/say-cheese): A REST API written in NodeJS that provides information and trivia about different types of cheese.
-- [Yabe](https://github.com/illusionman1212/yabe): An all-purpose Discord Bot for your general and unique needs.
