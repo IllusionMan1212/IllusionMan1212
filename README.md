@@ -9,7 +9,7 @@ If you'd like to donate you can do so here :).
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T22YXTW)
 ---
-### If you'd like to discuss an opportunity or want to inquire about something, please contact me through my email or on [my website](https://illusionman1212.tech/contact).
+### If you'd like to discuss an opportunity or want to inquire about something, please contact me through my email.
 ---
 ### Active-ish projects:
 - [gorc](https://github.com/illusionman1212/gorc): A terminal IRC client made in golang.
