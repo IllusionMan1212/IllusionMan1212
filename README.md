@@ -5,4 +5,4 @@ I'm a software developer interested in web technologies, graphics, and low-level
 Whatever has recent commits.
 
 ---
-#### Contact through email is encouraged.
+**Contact through [email](mailto:hisham.abourgheba@gmail.com) is encouraged.**
