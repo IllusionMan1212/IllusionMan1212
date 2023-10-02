@@ -1,13 +1,8 @@
-## What's up, I'm IllusionMan1212 or Illusion for short.
----
-I'm a web developer and software developer interested in web technologies, I like to build stuff using Typescript, React, and Golang. Planning on learning flutter and taking android development more seriously in 2022.
-I'm also a **huge** open-source enthusiast and advocate.
+## Hello. I'm IllusionMan1212 or Illusion for short.
+I'm a software developer interested in web technologies, graphics, and low-level programming. I like trying out languages and building projects using various different tech. **Huge** open-source enthusiast and advocate.
 
-I'm 23 years old, I started taking interest in programming in late 2017.
+### Active projects:
+Whatever has recent commits.
 
 ---
-### If you'd like to discuss an opportunity or want to inquire about something, please contact me through my email.
----
-### Active-ish projects:
-- [gorc](https://github.com/illusionman1212/gorc): A terminal IRC client made in golang.
-- [Twatter](https://github.com/illusionman1212/twatter-react): A micro-blogging, twitter-like platform.
+#### Contact through email is encouraged.
